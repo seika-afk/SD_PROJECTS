@@ -1,0 +1,13 @@
+Multiplayer Game
+
+Customizable Board in terms of snake and ladder placement
+
+Customizable in terms of number of dice used
+
+When Game board loadas it should
+- load configured board size
+- load the configured snake adn ladder
+- load the configured number of dice
+- load the number of players who will play the game and all players should be at starting position
+
+
