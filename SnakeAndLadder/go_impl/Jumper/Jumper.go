@@ -12,7 +12,7 @@ type Jumper struct{
 func NewJumper(st int, ed int) *Jumper{	
 	return &Jumper{
 		StartPoint : st,
-		EndPoint   : ed  
+		EndPoint   : ed , 
 
 	}
 

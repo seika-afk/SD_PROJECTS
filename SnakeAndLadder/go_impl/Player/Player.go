@@ -15,6 +15,7 @@ type Player struct{
 func NewPlayer(id int ,playerN string) *Player{
 	return &Player{
 		ID:id,
+		PlayerName: playerN,
 
 	}
 
